@@ -1,0 +1,79 @@
+				CHESS GAME
+				===========
+	- Version 2.0.6
+	- Patch Notes
+	==========
+		- Improved Tutorial
+		- Added Translation
+		- Added 5 New Puzzles
+		- Now games are saved in PGN ( Portable Game Notation ) format
+		- Now each game saved can be loaded at any time in Archives
+
+
+	- Older Versions
+	==================
+		- Version 2.0.5
+		- Patch Notes
+		=================
+			- New keys : Z ( to undo 1 move ) and X ( to undo 2 moves. For use in Singelplayer )
+			- Now you can replay the game you completed
+			- Improved mechanics to allow move undo
+			- Improved A.I. scoring and removed the bug in version 2.0.
+
+		- Version 2.0.4
+		- Patch Notes
+		================
+			- Removed the board evaluation criterias added in 2.0.3 as they might be causing the bugs.
+			- Tweaked the source code so that now it's much more easier to understand / work with
+			- Now you can select A.I. difficulty
+
+		- Version 2.0.3
+		- Patch Notes
+		===============
+			- Improved Board Evaluation
+			- A.I. now stable with 4-move thingking
+			- Bug where AI makes 2 moves : castling + random move
+			- Bug where AI trades Queen for Pawn in 4-move thinking
+
+		- Version 2.0.2
+		- Patch Notes
+		=================
+			- Re-added En'Passant
+			- Draw positon if 3 repeated moves
+			- A.I. improved to see checkmates
+			- A.I. reacts to player proposing draw based on map scores
+
+		- Version 2.0.1
+		- Patch Notes
+		=================
+			- Fixed bugs that caused memory corruption
+			- Made A.I. calculate a maximum of 5 moves ahead ( 3 for stable game )
+			- Note : Game may crash from time to time due to unkown reasons
+			=================================================
+
+		- Version 2.0.0
+		- Patch Notes
+		================
+			- Added GUI to the game.
+			- Removed the old console variant
+			- Improved A.I. to think 2 moves ahead
+			- Bug fixes
+			- Removed En'Passant and some draw positions
+			- Added other draw positions
+
+		- Version 1.0.2
+		- Patch Notes
+		================
+			- Improved A.I.
+			- Bug Fixes
+
+		- Version 1.0.1
+		- Patch Notes
+		================
+			- Added A.I.
+			- Bug Fixes
+
+		- Version 1.0.0
+		- Patch Notes
+		=================
+			- First stable game release
